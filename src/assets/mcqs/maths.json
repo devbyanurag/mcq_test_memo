@@ -1,0 +1,652 @@
+[
+    {
+      "id": 1,
+      "question": "The series ∑ 1/n^2 from n=1 to infinity is:",
+      "options": {
+        "a": "Divergent",
+        "b": "Absolutely convergent",
+        "c": "Conditionally convergent",
+        "d": "Not convergent"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 2,
+      "question": "A function f is said to be Riemann integrable if:",
+      "options": {
+        "a": "f is continuous",
+        "b": "f is bounded and the set of its discontinuities has measure zero",
+        "c": "f is monotonic",
+        "d": "f is differentiable"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 3,
+      "question": "A Banach space is:",
+      "options": {
+        "a": "A normed space that is complete",
+        "b": "A vector space with an inner product",
+        "c": "A metric space that is compact",
+        "d": "A Hilbert space that is complete"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 4,
+      "question": "The Hahn-Banach theorem guarantees:",
+      "options": {
+        "a": "Extension of a linear functional",
+        "b": "Existence of a norm",
+        "c": "Completeness of a space",
+        "d": "Convergence of a sequence"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 5,
+      "question": "Rouche's theorem is used to count:",
+      "options": {
+        "a": "Poles of a function",
+        "b": "Residues of a function",
+        "c": "Zeros of a function",
+        "d": "None of these"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 6,
+      "question": "Liouville's theorem states that a bounded entire function is:",
+      "options": {
+        "a": "Constant",
+        "b": "Unbounded",
+        "c": "Zero",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 7,
+      "question": "The Chapman-Kolmogorov equations are used for:",
+      "options": {
+        "a": "Gaussian processes",
+        "b": "Markov processes",
+        "c": "Poisson processes",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 8,
+      "question": "If a stochastic process is independent of time, it is called:",
+      "options": {
+        "a": "Ergodic",
+        "b": "Memoryless",
+        "c": "Stationary",
+        "d": "None of the above"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 9,
+      "question": "The law of large numbers states that:",
+      "options": {
+        "a": "The sum of probabilities is always 1",
+        "b": "Sample averages converge to the expected value",
+        "c": "Independent events have no correlation",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 10,
+      "question": "Ergodicity implies that:",
+      "options": {
+        "a": "Time averages equal ensemble averages",
+        "b": "A process is stationary",
+        "c": "A process has no memory",
+        "d": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 11,
+      "question": "The covariance of two independent random variables is:",
+      "options": {
+        "a": "1",
+        "b": "0",
+        "c": "Equal to the product of their variances",
+        "d": "Undefined"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 12,
+      "question": "LU decomposition is not applicable when:",
+      "options": {
+        "a": "The matrix is singular",
+        "b": "The matrix is square",
+        "c": "The determinant is non-zero",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 13,
+      "question": "A differential equation is linear if:",
+      "options": {
+        "a": "It has no derivatives.",
+        "b": "It has derivatives of only one variable.",
+        "c": "The dependent variable and its derivatives occur linearly.",
+        "d": "It has constant coefficients."
+      },
+      "answer": "c"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following methods is used to solve non-homogeneous linear differential equations?",
+      "options": {
+        "a": "Variation of parameters",
+        "b": "Method of undetermined coefficients",
+        "c": "Both (a) and (b)",
+        "d": "None of these"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 15,
+      "question": "A partial differential equation contains:",
+      "options": {
+        "a": "Partial derivatives with respect to more than one independent variable.",
+        "b": "Only ordinary derivatives.",
+        "c": "No derivatives.",
+        "d": "None of the above."
+      },
+      "answer": "a"
+    },
+    {
+      "id": 16,
+      "question": "The method of least squares is used in:",
+      "options": {
+        "a": "Hypothesis testing",
+        "b": "Regression analysis",
+        "c": "Sampling",
+        "d": "Probability distributions"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 17,
+      "question": "Fourier transform converts:",
+      "options": {
+        "a": "Time-domain functions to frequency domain",
+        "b": "Spatial-domain functions to time domain",
+        "c": "Time-domain functions to spatial domain",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 18,
+      "question": "Which method is commonly used in numerical differentiation?",
+      "options": {
+        "a": "Forward difference method",
+        "b": "Gauss-Seidel method",
+        "c": "Simpson's rule",
+        "d": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 19,
+      "question": "The standard error of the mean decreases as:",
+      "options": {
+        "a": "Sample size increases",
+        "b": "Population size increases",
+        "c": "Standard deviation increases",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 20,
+      "question": "A prime number is divisible by:",
+      "options": {
+        "a": "1 and itself",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 21,
+      "question": "The variance of a random variable measures:",
+      "options": {
+        "a": "The average value",
+        "b": "The spread or dispersion of values",
+        "c": "The maximum value",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 22,
+      "question": "The set of all limit points of a set S⊆R is known as:",
+      "options": {
+        "a": "Interior of S",
+        "b": "Closure of S",
+        "c": "Derived set of S",
+        "d": "Complement of S"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 23,
+      "question": "A Poisson random variable is used to model:",
+      "options": {
+        "a": "Continuous events",
+        "b": "Number of occurrences in a fixed interval",
+        "c": "Probability of success in n trials",
+        "d": "Uniform distribution"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 24,
+      "question": "The sum of probabilities in a discrete probability distribution is:",
+      "options": {
+        "a": "Always 1",
+        "b": "Always less than 1",
+        "c": "Greater than 1",
+        "d": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 25,
+      "question": "The probability mass function (PMF) is used for:",
+      "options": {
+        "a": "Continuous random variables",
+        "b": "Discrete random variables",
+        "c": "Both",
+        "d": "Neither"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 26,
+      "question": "A stochastic process is a:",
+      "options": {
+        "a": "Static phenomenon",
+        "b": "Collection of random variables indexed by time or space",
+        "c": "Deterministic process",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 27,
+      "question": "Markov processes satisfy the property of:",
+      "options": {
+        "a": "Independence",
+        "b": "Conditional independence",
+        "c": "Memorylessness",
+        "d": "Stationarity"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is an example of a discrete-time stochastic process?",
+      "options": {
+        "a": "Brownian motion",
+        "b": "Random walk",
+        "c": "Poisson process",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is a continuous-time process?",
+      "options": {
+        "a": "Random walk",
+        "b": "Brownian motion",
+        "c": "Bernoulli process",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 30,
+      "question": "In Numerical Integration, the Trapezoidal Rule uses:",
+      "options": {
+        "a": "Parabolas to approximate the area",
+        "b": "Rectangles to approximate the area",
+        "c": "Trapezoids to approximate the area",
+        "d": "Cubic splines to approximate the area"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 31,
+      "question": "Simpson’s 1/3 rule is exact for polynomials of degree:",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 32,
+      "question": "Richardson extrapolation is used for:",
+      "options": {
+        "a": "Increasing accuracy",
+        "b": "Reducing computation time",
+        "c": "Root finding",
+        "d": "Numerical integration"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 33,
+      "question": "The error in the Taylor series approximation decreases as:",
+      "options": {
+        "a": "The degree of the polynomial decreases",
+        "b": "The number of terms in the series increases",
+        "c": "The step size increases",
+        "d": "The function becomes non-linear"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 34,
+      "question": "The method of steepest descent is used for:",
+      "options": {
+        "a": "Solving linear equations",
+        "b": "Finding the minimum of a function",
+        "c": "Solving differential equations",
+        "d": "Calculating eigenvalues"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 35,
+      "question": "A feasible solution in optimization must satisfy:",
+      "options": {
+        "a": "The objective function",
+        "b": "All constraints",
+        "c": "Only equality constraints",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 36,
+      "question": "The simplex method is used to solve:",
+      "options": {
+        "a": "Nonlinear programming problems",
+        "b": "Linear programming problems",
+        "c": "Integer programming problems",
+        "d": "Dynamic programming problems"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 37,
+      "question": "Convex functions are important in optimization because:",
+      "options": {
+        "a": "They have multiple local minima",
+        "b": "A local minimum is also a global minimum",
+        "c": "They are always differentiable",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 38,
+      "question": "The Golden Section Search is used to:",
+      "options": {
+        "a": "Solve linear systems",
+        "b": "Maximize or minimize functions",
+        "c": "Integrate numerically",
+        "d": "Solve differential equations"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 39,
+      "question": "The penalty method is used for:",
+      "options": {
+        "a": "Converting constrained optimization problems into unconstrained problems",
+        "b": "Maximizing functions without derivatives",
+        "c": "Solving differential equations",
+        "d": "Finding approximate roots"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 40,
+      "question": "Dynamic programming is primarily used for:",
+      "options": {
+        "a": "Linear programming",
+        "b": "Sequential decision-making problems",
+        "c": "Unconstrained optimization",
+        "d": "None of the above"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 41,
+      "question": "The Laplace transform of 1 is:",
+      "options": {
+        "a": "s",
+        "b": "1/s^2",
+        "c": "1/s",
+        "d": "ln(s)"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 42,
+      "question": "The Laplace transform of cos(at) is:",
+      "options": {
+        "a": "s/(s^2 + a^2)",
+        "b": "a/(s^2 + 2)",
+        "c": "s^2/(s^2 + a^2)",
+        "d": "a^2/(s^2 + a^2)"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 43,
+      "question": "The Fourier transform of 1 is:",
+      "options": {
+        "a": "1",
+        "b": "δ(ω)",
+        "c": "0",
+        "d": "2πδ(ω)"
+      },
+      "answer": "d"
+    },
+    {
+      "id": 44,
+      "question": "Fourier transform is used to convert a signal from:",
+      "options": {
+        "a": "Frequency domain to time domain",
+        "b": "Time domain to frequency domain",
+        "c": "Time domain to Laplace domain",
+        "d": "Frequency domain to s-domain"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 45,
+      "question": "The trapezoidal rule is a method of:",
+      "options": {
+        "a": "Differentiation",
+        "b": "Integration",
+        "c": "Solving ODEs",
+        "d": "Root finding"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 46,
+      "question": "Gaussian elimination is used to:",
+      "options": {
+        "a": "Solve systems of linear equations",
+        "b": "Evaluate integrals",
+        "c": "Solve ODEs",
+        "d": "Find maximum and minimum"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 47,
+      "question": "Which method is used to approximate the value of a definite integral?",
+      "options": {
+        "a": "Taylor series method",
+        "b": "Simpson's rule",
+        "c": "Gauss-Seidel method",
+        "d": "Bisection method"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following functions has a Laplace transform?",
+      "options": {
+        "a": "e^(t^2)",
+        "b": "sin(t)",
+        "c": "e^(at)",
+        "d": "t^2"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 49,
+      "question": "The Laplace transform of t^3 is:",
+      "options": {
+        "a": "6/s^4",
+        "b": "3/s^4",
+        "c": "1/s^4",
+        "d": "3/s^3"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 50,
+      "question": "Which method is often applied for initial value problems?",
+      "options": {
+        "a": "Euler's method",
+        "b": "Gauss elimination",
+        "c": "Trapezoidal rule",
+        "d": "Secant method"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 51,
+      "question": "If a coin is flipped three times, what is the probability of getting exactly two heads?",
+      "options": {
+        "a": "1/8",
+        "b": "3/8",
+        "c": "1/4",
+        "d": "3/4"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 52,
+      "question": "The standard error of the mean decreases as:",
+      "options": {
+        "a": "Sample size increases",
+        "b": "Population size increases",
+        "c": "Standard deviation increases",
+        "d": "Sample size decreases"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 53,
+      "question": "Which method is commonly used in numerical differentiation?",
+      "options": {
+        "a": "Forward difference method",
+        "b": "Gauss-Seidel method",
+        "c": "Simpson's rule",
+        "d": "None of the above"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 54,
+      "question": "Numerical stability is essential in:",
+      "options": {
+        "a": "Iterative methods",
+        "b": "Direct methods",
+        "c": "Both iterative and direct methods",
+        "d": "None of these"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 55,
+      "question": "In numerical differentiation, error is minimized by:",
+      "options": {
+        "a": "Decreasing step size",
+        "b": "Increasing step size",
+        "c": "Ignoring higher-order derivatives",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 56,
+      "question": "The sum of probabilities of all possible outcomes in an experiment is:",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "Depends on the experiment",
+        "d": "None of these"
+      },
+      "answer": "b"
+    },
+    {
+      "id": 58,
+      "question": "Fourier transform converts:",
+      "options": {
+        "a": "Time-domain functions to frequency domain",
+        "b": "Spatial-domain functions to time domain",
+        "c": "Time-domain functions to spatial domain",
+        "d": "None of these"
+      },
+      "answer": "a"
+    },
+    {
+      "id": 59,
+      "question": "The convolution theorem states that convolution in time domain corresponds to:",
+      "options": {
+        "a": "Addition in the frequency domain",
+        "b": "Convolution in the frequency domain",
+        "c": "Multiplication in the frequency domain",
+        "d": "None of these"
+      },
+      "answer": "c"
+    },
+    {
+      "id": 60,
+      "question": "The midpoint rule is used in:",
+      "options": {
+        "a": "Integration",
+        "b": "Differentiation",
+        "c": "Root finding",
+        "d": "Solving linear equations"
+      },
+      "answer": "a"
+    }
+  ]
+  
