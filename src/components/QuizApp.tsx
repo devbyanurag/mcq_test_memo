@@ -89,6 +89,14 @@ const QuizApp: React.FC = () => {
     setQuizCompleted(true);
   };
 
+  const handleSolve = () => {
+    const autoAnswers: { [key: number]: keyof Option } = {};
+    shuffledQuestions.forEach((q) => {
+      autoAnswers[q.id] = q.answer; // Automatically select the correct answer
+    });
+    setUserAnswers(autoAnswers);
+  };
+
   return (
     <div style={{ margin: '20px' }}>
       <h1>Quiz App</h1>
@@ -126,9 +134,15 @@ const QuizApp: React.FC = () => {
       </div>
 
       {!quizCompleted && (
-        <button onClick={handleSubmit} style={{ display: 'block', marginTop: '20px' }}>
-          Submit
-        </button>
+        <div style={{ marginTop: '20px' }}>
+          <button onClick={handleSubmit} style={{ marginRight: '10px' }}>
+            Submit
+          </button>
+          <button onClick={handleSolve}>
+            Solve
+          </button>
+        </div>
+
       )}
 
       {quizCompleted && (
