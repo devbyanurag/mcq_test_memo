@@ -18,18 +18,20 @@ type Question = {
   answer: keyof Option;
 };
 
-const shuffleArray = <T,>(array: T[]): T[] => {
-  const newArray = [...array];
-  for (let i = newArray.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
-  }
-  return newArray;
-};
+// const shuffleArray = <T,>(array: T[]): T[] => {
+//   const newArray = [...array];
+//   for (let i = newArray.length - 1; i > 0; i--) {
+//     const j = Math.floor(Math.random() * (i + 1));
+//     [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+//   }
+//   return newArray;
+// };
 
 const shuffleOptions = (options: Option): Option => {
   const entries = Object.entries(options) as [keyof Option, string][];
-  const shuffledEntries = shuffleArray(entries);
+  // const shuffledEntries = shuffleArray(entries);
+  const shuffledEntries = entries;
+
   return Object.fromEntries(shuffledEntries) as Option;
 };
 
@@ -48,7 +50,7 @@ const QuizApp: React.FC = () => {
   useEffect(() => {
     // Type assertion for questions if needed
     const typedQuestions = questions as Question[];
-    const shuffled: Question[] = shuffleArray(typedQuestions).map((q) => ({
+    const shuffled: Question[] = (typedQuestions).map((q) => ({
       ...q,
       options: shuffleOptions(q.options),
     }));
