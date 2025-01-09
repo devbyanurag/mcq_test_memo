@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import questions from '../assets/mcqs/maths.json';
+// import questions from '../assets/mcqs/maths.json';
+import questions from '../assets/mcqs/matlab1.json';
+
 
 // Types for the questions and options
 type Option = {

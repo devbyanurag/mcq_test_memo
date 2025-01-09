@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following best describes MATLAB?",
+    "options": {
+      "a": "A programming language specifically for web development",
+      "b": "A tool for statistical analysis",
+      "c": "A high-performance language for technical computing",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "The command linspace(1,10,5) generates:",
+    "options": {
+      "a": "A vector of 5 logarithmically spaced points between 1 and 10",
+      "b": "A vector of 5 linearly spaced points between 1 and 10",
+      "c": "A scalar value of 5",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which operator is used for element-wise multiplication in MATLAB?",
+    "options": {
+      "a": "*",
+      "b": ".*",
+      "c": ":",
+      "d": "/"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "A script file in MATLAB is saved with the extension:",
+    "options": {
+      "a": ".mat",
+      "b": ".m",
+      "c": ".txt",
+      "d": ".exe"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "The plot function is used to:",
+    "options": {
+      "a": "Display text",
+      "b": "Create a bar chart",
+      "c": "Generate a 2D line plot",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Which MATLAB function is used to calculate the inverse of a matrix?",
+    "options": {
+      "a": "inv",
+      "b": "det",
+      "c": "eig",
+      "d": "transpose"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "The length function in MATLAB returns:",
+    "options": {
+      "a": "The number of rows in a matrix",
+      "b": "The largest dimension of an array",
+      "c": "The total number of elements in a matrix",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "The subplot function in MATLAB is used for:",
+    "options": {
+      "a": "Creating a single plot",
+      "b": "Creating multiple plots in the same figure",
+      "c": "Performing matrix operations",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "In MATLAB, the : operator is used for:",
+    "options": {
+      "a": "Assigning values to variables",
+      "b": "Matrix slicing and range creation",
+      "c": "Writing comments",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is NOT a MATLAB loop structure?",
+    "options": {
+      "a": "for",
+      "b": "while",
+      "c": "switch",
+      "d": "do-while"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 11,
+    "question": "What does the clc command do?",
+    "options": {
+      "a": "Clears all variables from the workspace",
+      "b": "Clears the command window",
+      "c": "Terminates the current session",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 12,
+    "question": "The fft function in MATLAB is used for:",
+    "options": {
+      "a": "Plotting graphs",
+      "b": "Solving linear equations",
+      "c": "Computing Fast Fourier Transform",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 13,
+    "question": "The hold on command in MATLAB:",
+    "options": {
+      "a": "Pauses script execution",
+      "b": "Allows multiple plots on the same axes",
+      "c": "Stops all plotting",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "To create a 4x4 identity matrix, which command is used?",
+    "options": {
+      "a": "eye(4)",
+      "b": "ones(4)",
+      "c": "diag(4)",
+      "d": "identity(4)"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 15,
+    "question": "The size function returns:",
+    "options": {
+      "a": "The dimensions of a matrix",
+      "b": "The total number of elements in an array",
+      "c": "The memory size of a variable",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 16,
+    "question": "Which command is used to clear all variables from the workspace?",
+    "options": {
+      "a": "clear",
+      "b": "clc",
+      "c": "close",
+      "d": "delete"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "What is the result of the operation 3.^2 in MATLAB?",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "9",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 18,
+    "question": "In MATLAB, a string array is created using:",
+    "options": {
+      "a": "Single quotes ''",
+      "b": "Double quotes \"\"",
+      "c": "Curly braces {}",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 19,
+    "question": "The fprintf function is used for:",
+    "options": {
+      "a": "Plotting graphs",
+      "b": "Writing formatted text to a file or command window",
+      "c": "Matrix operations",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 20,
+    "question": "What does the grid on command do?",
+    "options": {
+      "a": "Removes grid lines from a plot",
+      "b": "Adds grid lines to a plot",
+      "c": "Saves the plot",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is used to display output in MATLAB?",
+    "options": {
+      "a": "disp",
+      "b": "show",
+      "c": "output",
+      "d": "print"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 22,
+    "question": "What is the result of the command mean([4, 8, 12])?",
+    "options": {
+      "a": "8",
+      "b": "12",
+      "c": "4",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "What does the command rand(3) produce?",
+    "options": {
+      "a": "A 3x3 matrix of random integers",
+      "b": "A 3x3 matrix of random numbers between 0 and 1",
+      "c": "A scalar value",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "question": "The command eye(3) in MATLAB creates:",
+    "options": {
+      "a": "A 3x3 matrix of ones",
+      "b": "A 3x3 identity matrix",
+      "c": "A 3x3 matrix of zeros",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "question": "What does the help command in MATLAB do?",
+    "options": {
+      "a": "Runs the program",
+      "b": "Displays documentation about a function",
+      "c": "Clears the workspace",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following operators performs matrix multiplication in MATLAB?",
+    "options": {
+      "a": ".*",
+      "b": "*",
+      "c": "+",
+      "d": "/"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 27,
+    "question": "The reshape function in MATLAB is used to:",
+    "options": {
+      "a": "Change the size of a matrix",
+      "b": "Create a random matrix",
+      "c": "Sort a vector",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 28,
+    "question": "What does the diag function do?",
+    "options": {
+      "a": "Extracts the diagonal elements of a matrix",
+      "b": "Transposes a matrix",
+      "c": "Computes the determinant of a matrix",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 29,
+    "question": "The length function in MATLAB returns:",
+    "options": {
+      "a": "The number of rows in an array",
+      "b": "The total number of elements in an array",
+      "c": "The largest dimension of an array",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "The command sum([1, 2; 3, 4], 2) returns:",
+    "options": {
+      "a": "[1; 2]",
+      "b": "[3; 7]",
+      "c": "[4; 6]",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 31,
+    "question": "What is the purpose of the clc command?",
+    "options": {
+      "a": "Clears all variables from the workspace",
+      "b": "Clears the command window",
+      "c": "Closes all figures",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "question": "What does the grid on command do?",
+    "options": {
+      "a": "Removes grid lines from a plot",
+      "b": "Adds grid lines to a plot",
+      "c": "Saves the plot",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 33,
+    "question": "What does the command flip([1, 2, 3]) return?",
+    "options": {
+      "a": "[3, 2, 1]",
+      "b": "[1, 2, 3]",
+      "c": "[2, 3, 1]",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a logical operator in MATLAB?",
+    "options": {
+      "a": "||",
+      "b": "&&",
+      "c": "Both",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 35,
+    "question": "The fprintf function in MATLAB is used for:",
+    "options": {
+      "a": "Writing formatted text to the command window or a file",
+      "b": "Plotting graphs",
+      "c": "Matrix operations",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 36,
+    "question": "Which command is used to generate a row vector with values from 1 to 10 in steps of 2?",
+    "options": {
+      "a": "linspace(1, 10, 2)",
+      "b": "1:2:10",
+      "c": "linspace(1, 10)",
+      "d": "rand(1, 10)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 37,
+    "question": "What is the output of mod(7, 2)?",
+    "options": {
+      "a": "3",
+      "b": "1",
+      "c": "0",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 38,
+    "question": "The subplot function is used for:",
+    "options": {
+      "a": "Creating a single plot",
+      "b": "Creating multiple plots in the same figure",
+      "c": "Clearing figures",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 39,
+    "question": "What is the purpose of grid on in MATLAB?",
+    "options": {
+      "a": "To add grid lines to a plot",
+      "b": "To save a plot",
+      "c": "To zoom into a plot",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 40,
+    "question": "Which function is used to find the eigenvalues of a matrix?",
+    "options": {
+      "a": "eig",
+      "b": "det",
+      "c": "inv",
+      "d": "rank"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following commands is used to clear the workspace in MATLAB?",
+    "options": {
+      "a": "clear all",
+      "b": "reset",
+      "c": "clear",
+      "d": "flush"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 42,
+    "question": "What is the output of the following MATLAB command? A = [1 2; 3 4]; B = A * A; disp(B)",
+    "options": {
+      "a": "[7 10; 15 22]",
+      "b": "[1 2; 3 4]",
+      "c": "[10 14; 15 22]",
+      "d": "Error"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following MATLAB functions is used to generate a vector of 100 linearly spaced points between 0 and 10?",
+    "options": {
+      "a": "linspace(0, 10, 100)",
+      "b": "zeros(100, 1)",
+      "c": "ones(100, 1)",
+      "d": "range(0, 10, 100)"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is the correct syntax to create a row vector containing the elements 1, 2, 3, 4, 5 in MATLAB?",
+    "options": {
+      "a": "A = [1; 2; 3; 4; 5]",
+      "b": "A = (1, 2, 3, 4, 5)",
+      "c": "A = [1 2 3 4 5]",
+      "d": "A = {1 2 3 4 5}"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 45,
+    "question": "What does the MATLAB command who do?",
+    "options": {
+      "a": "Lists all the variables in the workspace",
+      "b": "Displays the current working directory",
+      "c": "Shows the contents of a file",
+      "d": "Clears all variables"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 46,
+    "question": "Which function is used to calculate the determinant of a matrix in MATLAB?",
+    "options": {
+      "a": "det()",
+      "b": "inverse()",
+      "c": "diag()",
+      "d": "rank()"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 47,
+    "question": "Which operator is used in MATLAB to perform element-wise multiplication?",
+    "options": {
+      "a": "*",
+      "b": ".^",
+      "c": ".*",
+      "d": "./"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 48,
+    "question": "Which function in MATLAB returns the current working directory?",
+    "options": {
+      "a": "pwd()",
+      "b": "cd()",
+      "c": "dir()",
+      "d": "ls()"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 49,
+    "question": "What is the output of the following MATLAB command? A = [1 2 3]; B = A'; disp(B)",
+    "options": {
+      "a": "[1 2 3]",
+      "b": "[1; 2; 3]",
+      "c": "[2; 3; 1]",
+      "d": "Error"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "What does the rand() function generate in MATLAB?",
+    "options": {
+      "a": "A random integer",
+      "b": "A random number from a normal distribution",
+      "c": "A random number from a uniform distribution between 0 and 1",
+      "d": "A random value from the exponential distribution"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "What is the output of the following MATLAB code? x = 1:5; y = 2:6; z = x + y; disp(z)",
+    "options": {
+      "a": "[3 5 7 9 11]",
+      "b": "[1 2 3 4 5]",
+      "c": "[2 4 6 8 10]",
+      "d": "Error"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 52,
+    "question": "What does the subplot() function do in MATLAB?",
+    "options": {
+      "a": "Creates multiple axes in a single figure",
+      "b": "Plots data points in multiple figures",
+      "c": "Saves a plot as an image file",
+      "d": "Plots a surface plot"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 53,
+    "question": "How can you save the current MATLAB figure as a .png file?",
+    "options": {
+      "a": "saveas(gcf, 'figure.png')",
+      "b": "savefig('figure.png')",
+      "c": "save('figure.png')",
+      "d": "figure.save()"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 54,
+    "question": "Which function in MATLAB is used to read data from a CSV file?",
+    "options": {
+      "a": "csvread()",
+      "b": "load()",
+      "c": "fread()",
+      "d": "readcsv()"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 55,
+    "question": "What is the purpose of the fminunc() function in MATLAB?",
+    "options": {
+      "a": "To find the minimum of a function",
+      "b": "To find the maximum of a function",
+      "c": "To solve an ordinary differential equation",
+      "d": "To plot a function"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following functions is used to compute the eigenvalues of a matrix in MATLAB?",
+    "options": {
+      "a": "eig()",
+      "b": "inv()",
+      "c": "rank()",
+      "d": "svd()"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 57,
+    "question": "Which command would you use to create a matrix of all ones of size 3x4 in MATLAB?",
+    "options": {
+      "a": "ones(3, 4)",
+      "b": "zeros(3, 4)",
+      "c": "eye(3, 4)",
+      "d": "ones(3, 4, 1)"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 58,
+    "question": "What is the purpose of the for loop in MATLAB?",
+    "options": {
+      "a": "To execute a set of statements a fixed number of times",
+      "b": "To execute a set of statements until a condition is met",
+      "c": "To define a function",
+      "d": "To handle errors in code"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following commands will plot a sine wave in MATLAB?",
+    "options": {
+      "a": "plot(sin(x))",
+      "b": "plot(x, sin(x))",
+      "c": "sineplot(x)",
+      "d": "sin(x).plot()"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 60,
+    "question": "What is the purpose of the disp function in MATLAB?",
+    "options": {
+      "a": "To display text or variables in the command window",
+      "b": "To display plots",
+      "c": "To execute scripts",
+      "d": "To create a file"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 61,
+    "question": "In MATLAB, which of the following commands will generate a column vector with values 1, 2, 3, 4, and 5?",
+    "options": {
+      "a": "[1; 2; 3; 4; 5]",
+      "b": "[1, 2, 3, 4, 5]",
+      "c": "(1; 2; 3; 4; 5)",
+      "d": "{1, 2, 3, 4, 5}"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is NOT a valid MATLAB variable name?",
+    "options": {
+      "a": "my_var",
+      "b": "Var1",
+      "c": "2var",
+      "d": "_temp"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 63,
+    "question": "What does the command length([1, 2; 3, 4]) return?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "1",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 64,
+    "question": "What does the command zeros(3, 2) produce?",
+    "options": {
+      "a": "A 3x2 matrix of ones",
+      "b": "A 3x2 matrix of zeros",
+      "c": "A 2x3 matrix of zeros",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Which command is used to transpose a matrix in MATLAB?",
+    "options": {
+      "a": "transpose(A)",
+      "b": "A’",
+      "c": "A.T",
+      "d": "Both (a) and (b)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 66,
+    "question": "How can you append the value 5 to a row vector A = [1, 2, 3]?",
+    "options": {
+      "a": "A = [A 5]",
+      "b": "A = A + 5",
+      "c": "A = [1, 2, 3, 5]",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following functions returns the number of elements in an array?",
+    "options": {
+      "a": "length()",
+      "b": "numel()",
+      "c": "size()",
+      "d": "Both (a) and (b)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 68,
+    "question": "What does the command sum([1, 2; 3, 4], 1) return?",
+    "options": {
+      "a": "[4, 6]",
+      "b": "[3, 7]",
+      "c": "[5, 5]",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 69,
+    "question": "Which command creates a 5x5 diagonal matrix with the diagonal elements [1, 2, 3, 4, 5]?",
+    "options": {
+      "a": "diag([1, 2, 3, 4, 5])",
+      "b": "eye(5)",
+      "c": "zeros(5)",
+      "d": "diag([1, 2; 3, 4])"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 70,
+    "question": "Which command will open the MATLAB editor?",
+    "options": {
+      "a": "edit",
+      "b": "open",
+      "c": "script",
+      "d": "file"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 71,
+    "question": "What does the colon operator (:) do in MATLAB?",
+    "options": {
+      "a": "Specifies all elements in a dimension",
+      "b": "Performs matrix multiplication",
+      "c": "Defines a comment",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 72,
+    "question": "Which command will produce an error in MATLAB?",
+    "options": {
+      "a": "plot([1, 2, 3], [4, 5, 6])",
+      "b": "hold on",
+      "c": "plot([1, 2, 3])",
+      "d": "subplot(2, 2)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 73,
+    "question": "What is the default line style for the plot function in MATLAB?",
+    "options": {
+      "a": "Dashed line",
+      "b": "Solid line",
+      "c": "Dotted line",
+      "d": "No line"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 74,
+    "question": "Which function is used to create a logarithmic plot in MATLAB?",
+    "options": {
+      "a": "log()",
+      "b": "semilogx()",
+      "c": "loglog()",
+      "d": "Both (b) and (c)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 75,
+    "question": "What does the command fclose('all') do?",
+    "options": {
+      "a": "Closes all figures",
+      "b": "Closes all open files",
+      "c": "Exits MATLAB",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "How can you generate a 1x5 vector with random values between 0 and 1?",
+    "options": {
+      "a": "rand(1, 5)",
+      "b": "rand([1, 5])",
+      "c": "random(1, 5)",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 77,
+    "question": "Which function would you use to find the indices of non-zero elements in a matrix?",
+    "options": {
+      "a": "find()",
+      "b": "nonzeros()",
+      "c": "zeros()",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 78,
+    "question": "What does the command num2str(123.45) return?",
+    "options": {
+      "a": "A numeric value",
+      "b": "A string '123.45'",
+      "c": "A cell array",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 79,
+    "question": "How can you access the third element of a vector A = [10, 20, 30, 40]?",
+    "options": {
+      "a": "A(3)",
+      "b": "A[3]",
+      "c": "A.3",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 80,
+    "question": "Which command is used to display the size of a variable in bytes?",
+    "options": {
+      "a": "whos",
+      "b": "size",
+      "c": "length",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 81,
+    "question": "In MATLAB, what is the result of the operation [1, 2; 3, 4] .* [2, 2; 2, 2]?",
+    "options": {
+      "a": "[2, 4; 6, 8]",
+      "b": "[3, 4; 5, 6]",
+      "c": "[4, 8; 12, 16]",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 82,
+    "question": "Which command will plot a 3D surface in MATLAB?",
+    "options": {
+      "a": "surf(X, Y, Z)",
+      "b": "plot3(X, Y, Z)",
+      "c": "mesh(X, Y, Z)",
+      "d": "Both (a) and (c)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 83,
+    "question": "What does the command max([1, 5, 3, 7, 2]) return?",
+    "options": {
+      "a": "7",
+      "b": "[7, 5]",
+      "c": "[1, 7]",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 84,
+    "question": "Which function in MATLAB creates a histogram?",
+    "options": {
+      "a": "plot()",
+      "b": "bar()",
+      "c": "histogram()",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 85,
+    "question": "What does the command isempty([]) return?",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "An error",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 86,
+    "question": "How can you convert a matrix A to a column vector in MATLAB?",
+    "options": {
+      "a": "A(:)",
+      "b": "reshape(A, [], 1)",
+      "c": "Both (a) and (b)",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 87,
+    "question": "Which function in MATLAB is used to pause the execution of a script for 5 seconds?",
+    "options": {
+      "a": "delay(5)",
+      "b": "pause(5)",
+      "c": "stop(5)",
+      "d": "wait(5)"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 88,
+    "question": "What does the command isprime(7) return?",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "An error",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 89,
+    "question": "Which command is used to clear a specific variable from the workspace?",
+    "options": {
+      "a": "clear variableName",
+      "b": "delete variableName",
+      "c": "remove variableName",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 90,
+    "question": "What is the output of eig([1, 2; 2, 1])?",
+    "options": {
+      "a": "A vector of eigenvalues",
+      "b": "A matrix of eigenvectors",
+      "c": "Both eigenvalues and eigenvectors",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 91,
+    "question": "Which function in MATLAB is used to calculate the cumulative sum of elements in a vector?",
+    "options": {
+      "a": "cumsum()",
+      "b": "sum()",
+      "c": "cumprod()",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 92,
+    "question": "How can you write data to a text file in MATLAB?",
+    "options": {
+      "a": "fopen, fprintf, fclose",
+      "b": "open, fprintf, close",
+      "c": "fopen, write, fclose",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 93,
+    "question": "Which of the following commands will generate a mesh plot in MATLAB?",
+    "options": {
+      "a": "mesh(X, Y, Z)",
+      "b": "plot3(X, Y, Z)",
+      "c": "surf(X, Y, Z)",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 94,
+    "question": "What is the use of the function svd() in MATLAB?",
+    "options": {
+      "a": "To solve linear equations",
+      "b": "To perform singular value decomposition",
+      "c": "To calculate the determinant of a matrix",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 95,
+    "question": "Which command will display all the currently defined variables in the workspace?",
+    "options": {
+      "a": "who",
+      "b": "whos",
+      "c": "variables",
+      "d": "Both (a) and (b)"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 96,
+    "question": "What does the command flipud([1, 2; 3, 4]) return?",
+    "options": {
+      "a": "[1, 2; 3, 4]",
+      "b": "[3, 4; 1, 2]",
+      "c": "[2, 1; 4, 3]",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "What is the result of the command log10(100)?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "10",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 98,
+    "question": "Which command is used to terminate a MATLAB script prematurely?",
+    "options": {
+      "a": "stop",
+      "b": "exit",
+      "c": "break",
+      "d": "end"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 99,
+    "question": "How can you add a title to a plot in MATLAB?",
+    "options": {
+      "a": "title('My Plot')",
+      "b": "plot_title('My Plot')",
+      "c": "set_title('My Plot')",
+      "d": "None of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 100,
+    "question": "What does the command diff([1, 3, 6, 10]) return?",
+    "options": {
+      "a": "[1, 2, 3, 4]",
+      "b": "[2, 3, 4]",
+      "c": "[2, 3, 4, 6]",
+      "d": "None of the above"
+    },
+    "answer": "b"
+  }
+]
