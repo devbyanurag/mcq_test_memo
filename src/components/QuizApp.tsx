@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 // import questions from '../assets/mcqs/maths.json';
 // import questions from '../assets/mcqs/matlab1.json';
-import questions from '../assets/mcqs/TC.json';
+// import questions from '../assets/mcqs/TC.json';
+import questions from '../assets/mcqs/RM.json';
+
 
 
 

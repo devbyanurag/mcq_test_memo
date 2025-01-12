@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the author of the book named “Methods in Social Research”?",
+    "options": {
+      "a": "Kerlinger",
+      "b": "C R Kothari",
+      "c": "Goode and Hatt",
+      "d": "Wilkinson"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "In order to pursue the research, which of the following is priory required?",
+    "options": {
+      "a": "Developing a research design",
+      "b": "Formulating research question",
+      "c": "Data analysis procedure",
+      "d": "Formulating research hypothesis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "How to judge the depth of any research?",
+    "options": {
+      "a": "By research title",
+      "b": "By research duration",
+      "c": "By research objectives",
+      "d": "Expenditure on research"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not the method of research?",
+    "options": {
+      "a": "Survey",
+      "b": "Historical",
+      "c": "Observation",
+      "d": "Philosophical"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 5,
+    "question": "Research is",
+    "options": {
+      "a": "Searching again and again",
+      "b": "Finding solution to any problem",
+      "c": "Working in scientific way",
+      "d": "None of above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "In order to pursue the research, which of the following is priory required?",
+    "options": {
+      "a": "Developing a research design",
+      "b": "Formulating research question",
+      "c": "Deciding about data analysis procedure",
+      "d": "Formulating research hypothesis"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "The main objective of __________ study to acquire knowledge is",
+    "options": {
+      "a": "Exploratory",
+      "b": "Descriptive",
+      "c": "Diagnostic",
+      "d": "Descriptive and diagnostic"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Concepts are ________ of research",
+    "options": {
+      "a": "Guide",
+      "b": "Tools",
+      "c": "Methods",
+      "d": "Variables"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Concept is of two types",
+    "options": {
+      "a": "Abstract & Coherent",
+      "b": "Concrete & Coherent",
+      "c": "Abstract & Concrete",
+      "d": "None of above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "What do you understand by the term 'Anusandhan'?",
+    "options": {
+      "a": "Goal Oriented",
+      "b": "Following an aim",
+      "c": "Attaining an aim",
+      "d": "Praying to achieve an aim"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 11,
+    "question": "What do you mean by unit of analysis?",
+    "options": {
+      "a": "Main Parameter",
+      "b": "Variables",
+      "c": "Sample",
+      "d": "Constructs"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 12,
+    "question": "Survey is __________ study",
+    "options": {
+      "a": "Descriptive",
+      "b": "Fact finding",
+      "c": "Analytical",
+      "d": "Systematic"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 13,
+    "question": "In a survey there is an enumerator and a _____________",
+    "options": {
+      "a": "Guide",
+      "b": "Respondent",
+      "c": "Supervisor",
+      "d": "Messenger"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 14,
+    "question": "Identifying causes of a problem and possible solution to a problem is",
+    "options": {
+      "a": "Field study",
+      "b": "Diagnostic Study",
+      "c": "Action study",
+      "d": "Pilot study"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "Second step in problem formulation is",
+    "options": {
+      "a": "Statement of problem",
+      "b": "Understanding the nature of problem",
+      "c": "Survey",
+      "d": "Discussion"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "question": "The Questionnaire is filled by",
+    "options": {
+      "a": "Respondent",
+      "b": "Everybody",
+      "c": "Enumerator",
+      "d": "None of above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 17,
+    "question": "How to judge the depth of any research?",
+    "options": {
+      "a": "Research title",
+      "b": "Research duration",
+      "c": "Research objectives",
+      "d": "Expenditure on research"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 18,
+    "question": "Who can successfully conduct Research?",
+    "options": {
+      "a": "One who is hard worker",
+      "b": "Possess post-graduate degree",
+      "c": "Has studied research methodology",
+      "d": "Possess thinking and reasoning ability"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is not the method of Research?",
+    "options": {
+      "a": "Survey",
+      "b": "Historical",
+      "c": "Observation",
+      "d": "Philosophical"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 20,
+    "question": "Wrong questionnaire is an example of",
+    "options": {
+      "a": "Primary data collection problem",
+      "b": "Secondary data collection problem",
+      "c": "Both a & b",
+      "d": "None of above"
+    },
+    "answer": "a"
+  },
+  
+  {
+    "id": 42,
+    "question": "A split half method is used as a test of:",
+    "options": {
+      "a": "Stability",
+      "b": "Reliability",
+      "c": "Validity",
+      "d": "Consistency"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 43,
+    "question": "How is random sampling helpful?",
+    "options": {
+      "a": "Reasonably accurate",
+      "b": "Economical way of data collection",
+      "c": "Free from personal bias",
+      "d": "All of above"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 44,
+    "question": "Random sampling is also called",
+    "options": {
+      "a": "Availability sampling",
+      "b": "Probation sampling",
+      "c": "Probability sampling",
+      "d": "Prospect sampling"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 45,
+    "question": "To test null hypothesis, a researcher uses:",
+    "options": {
+      "a": "t test",
+      "b": "ANOVA",
+      "c": "X²",
+      "d": "Factorial analyses"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 46,
+    "question": "Which one among the following statements is false in the context of participatory research?",
+    "options": {
+      "a": "It recognizes knowledge as power",
+      "b": "Collective process of enquiry",
+      "c": "Emphasize peoples as expert",
+      "d": "Its sole purpose is production of knowledge"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 47,
+    "question": "The degree of freedom for paired t-test based on n pairs of observations is",
+    "options": {
+      "a": "2n-1",
+      "b": "n-2",
+      "c": "2(n-1)",
+      "d": "n-1"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 49,
+    "question": "The main characteristic of scientific research is:",
+    "options": {
+      "a": "Empirical",
+      "b": "Theoretical",
+      "c": "Experimental",
+      "d": "All of the above"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following does not correspond to characteristics of research?",
+    "options": {
+      "a": "Research is not passive",
+      "b": "Research is systematic",
+      "c": "Research is not problem oriented",
+      "d": "Research is not a process"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "The main aim of the scientific method in the research field is to",
+    "options": {
+      "a": "Improve data interpretation",
+      "b": "Confirm triangulation",
+      "c": "Introduce new variables",
+      "d": "Eliminate spurious relations"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 52,
+    "question": "Which technique is generally followed when the population is finite?",
+    "options": {
+      "a": "Area Sampling Technique",
+      "b": "Purposive Sampling Technique",
+      "c": "Systematic Sampling Technique",
+      "d": "None of the above"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 53,
+    "question": "How to judge the depth of any research?",
+    "options": {
+      "a": "Research title",
+      "b": "Research duration",
+      "c": "Research objectives",
+      "d": "Expenditure on research"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 54,
+    "question": "The chi-square test is:",
+    "options": {
+      "a": "A mean",
+      "b": "A multi-question test",
+      "c": "A statistical mistake",
+      "d": "A statistic"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 56,
+    "question": "Which is the major attribute of correlation analysis?",
+    "options": {
+      "a": "Association among variables",
+      "b": "Difference among variables",
+      "c": "Regression among variables",
+      "d": "Variation among variables"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 57,
+    "question": "What is the name of the conceptual framework in which the research is carried out?",
+    "options": {
+      "a": "Research Hypothesis",
+      "b": "Synopsis of research",
+      "c": "Research paradigm",
+      "d": "Research design"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 58,
+    "question": "How is random sampling helpful?",
+    "options": {
+      "a": "Reasonably accurate",
+      "b": "Economical way of data collection",
+      "c": "Free from personal bias",
+      "d": "All of above"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 59,
+    "question": "What is the main role of research in education?",
+    "options": {
+      "a": "To upsurge one's social status",
+      "b": "To increase one's job prospects",
+      "c": "To augment one's personal growth",
+      "d": "To help an applicant in becoming a renowned educationalist"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 60,
+    "question": "The conclusions/findings of which type of research cannot be generalized to other situations?",
+    "options": {
+      "a": "Casual comparative research",
+      "b": "Historical research",
+      "c": "Descriptive research",
+      "d": "Experimental research"
+    },
+    "answer": "b"
+  }
+]
